@@ -1,5 +1,5 @@
-import MindCareLanding from '@/components/MindCareLanding'
-import DashboardView from '@/components/DashboardView'
+import MindCareLanding from '../components/MindCareLanding'
+import DashboardView from '../components/DashboardView'
 
 export default function Home() {
   return (
